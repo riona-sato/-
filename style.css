@@ -1,0 +1,25 @@
+h1{
+    font-size: 40px;
+    background-color: blue;
+    color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+
+}
+p{
+  font-size: 20px;
+  color: cornflowerblue;
+  font-family: fantasy;
+
+}
+li{
+    list-style: none;
+    color: darkgoldenrod;
+    float: left;
+}
+
+h2{
+    font-size: 20px;
+    color: darkgreen
+    
+}
